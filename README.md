@@ -32,7 +32,7 @@ This project was developed under the **Human-Centered Design (HCD)** framework, 
 | **Component** | **Technology** |
 |---------------|----------------|
 | **Machine Learning** | TensorFlow, Keras, PyTorch, Google Colab |
-| **Mobile Development** | Kotlin, Android Studio |
+| **Mobile Development** | Kotlin, Android Studio, Antigravity |
 | **Validation** | Google ML Kit Image Labeling API |
 | **Cloud Backend** | AWS SageMaker, S3 |
 | **Version Control** | Git, GitHub |
